@@ -260,4 +260,4 @@ def delete_user(user_id):
 if __name__ == '__main__':
     print("🚀 Starting Flask API with Redis + RDS")
     app.run(host='0.0.0.0', port=5000, debug=True)
-[root@ip-10-0-28-32 Elastic-cache]# 
+
